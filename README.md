@@ -19,5 +19,15 @@ To build the presentation deck:
 ```sh
 npm run build
 ```
+## Important
+
+Use Node version 16 or older
+
+```sh
+
+nvm install v16
+nvm use v16
+```
+
 
 For more documentation see [MDX Deck](https://github.com/jxnblk/mdx-deck) and [Code Surfer](https://codesurfer.pomb.us/)
